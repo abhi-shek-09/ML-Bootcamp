@@ -88,7 +88,7 @@ The following resources consist of the slides taught in the respective sessions:
 
 
 
-
+---
 <p align="center">
-	---With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
