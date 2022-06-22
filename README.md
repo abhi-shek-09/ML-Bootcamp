@@ -25,7 +25,7 @@ The following resources consist of the slides taught in the respective sessions:
 </td>
 
 <td align="center">
-<span><b><center>Link to the folder</center></b></span>
+<span><b><center>Repo</center></b></span>
 </td>
 </tr>
   
@@ -34,7 +34,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center>tmdb_5000_movies</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/tmdb_5000_movies.csv">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/tmdb_5000_movies.csv">Link</a>
 </td>
 </tr>
 
@@ -43,7 +43,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center> tmdb_5000_credits </center></span>
 </td>
 <td align="center">
-<a href="https://drive.google.com/file/d/1bDL_4-X1EPiiZ0M-SLqQ0_bbiXQvfiah/view?usp=sharing">Link to the Repo</a>
+<a href="https://drive.google.com/file/d/1bDL_4-X1EPiiZ0M-SLqQ0_bbiXQvfiah/view?usp=sharing">Link</a>
 </td>
 </tr>
   
@@ -52,7 +52,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center>requirements</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/requirements.txt">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/requirements.txt">Link</a>
 </td>
 </tr>
 
@@ -62,7 +62,7 @@ The following resources consist of the slides taught in the respective sessions:
 </td>
 <td align="center">
 
-<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Procfile">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Procfile">Link</a>
 </td>
 </tr>
   
@@ -71,7 +71,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center> app.py</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py">Link</a>
 </td>
 </tr>
 
@@ -80,7 +80,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center> final_code</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py">Link</a>
 </td>
 </tr>
 </tbody>
@@ -90,5 +90,5 @@ The following resources consist of the slides taught in the respective sessions:
 
 
 <p align="center">
-	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+	---With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
